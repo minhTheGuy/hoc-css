@@ -1,0 +1,39 @@
+html {
+    font-size: 22px;
+    
+}
+
+body {
+
+}
+
+main {
+    font-family: monospace;
+}
+
+button, input, select, textarea {
+    font-size: inherit;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+.gray {
+    color: gray;
+}
+
+p {
+    color: purple;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background: gold;
+}
+
+
+
+#second {
+    font-style: italic;
+}
